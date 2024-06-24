@@ -1,0 +1,94 @@
+/* styles.css */
+h1 {
+    color: #ff69b4;
+    font-size: 2.5em;
+}
+h2{
+    color:#ff69b4;
+}
+h3{
+    color:#109cd7;
+}
+h4{
+    color:#e6229b;
+}
+
+.birthday-image {
+    max-width: 70%;
+    height:auto;
+    border-radius: 50px;
+    margin: 50px 0;
+}
+
+.message {
+    font-size: 1.2em;
+    color: #4a0a87;
+}
+
+.signature {
+    font-size: 1em;
+    color: #555;
+    margin-top: 20px;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #144c7e;
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+}
+
+.container {1
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.gallery-item {
+    width: 45%;
+    margin: 10px;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.gallery-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.quote {
+    font-size: 1em;
+    color: #155e57;
+    margin-top: 10px;
+    width: 90%;
+}
+.quote1 {
+    font-size: 1em;
+    color: red;
+    margin-top: 10px;
+    width: 90%;
+    
+}
+.quote2 {
+    font-size: 1em;
+    color: #8e300f;
+    margin-top: 10px;
+    width: 90%;
+}
+
+
